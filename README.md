@@ -73,6 +73,6 @@ The goal is independent understanding.
 
 ## Contact
 
-Email: your-email@example.com  
-LinkedIn: lin
+Email:
+LinkedIn:
 
