@@ -3,13 +3,7 @@
 
 ---
 ## Selected Projects
-
-### Genetic Algorithm – Himmelblau Function Optimization
-
-Implemented a real-valued Genetic Algorithm from scratch to locate global minima of a multimodal benchmark function.
-
-- Designed selection, crossover (single-point, uniform), and mutation operators  
-- Tuned mutation rate and population size  
+ Tuned mutation rate and population size  
 - Tracked fitness convergence across generations  
 - Analyzed exploration vs exploitation trade-offs  
 
