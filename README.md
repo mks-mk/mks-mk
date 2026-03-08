@@ -1,17 +1,6 @@
 # MOHAMMED SINAN MK
 
 
----
-## Selected Projects
- Tuned mutation rate and population size  
-- Tracked fitness convergence across generations  
-- Analyzed exploration vs exploitation trade-offs  
-
-**Key Learning:** Population-based stochastic search requires parameter tuning and diversity control to avoid premature convergence.
-
----
-
-## What I’m Working Toward
 
 By third year:
 - Strong command of data structures and memory management in C  
