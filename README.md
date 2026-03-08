@@ -1,17 +1,5 @@
 # MOHAMMED SINAN MK
 
-B.Tech Computer Science & Engineering (CSE ’25). 
-
-Focused on building strong foundations in algorithms, systems programming, and computational optimization through implementation-driven learning.
-
----
-
-## Current Focus
-
-- Core mathematics and analytical problem solving  
-- Preparing for Data Structures in C  
-- Computer Organization & Architecture fundamentals  
-- Writing logic-first code instead of relying on frameworks  
 
 ---
 
