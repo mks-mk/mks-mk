@@ -1,6 +1,1 @@
 
-## Contact
-
-Email:
-LinkedIn:
-
