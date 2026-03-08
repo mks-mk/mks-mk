@@ -1,15 +1,4 @@
-# MOHAMMED SINAN MK
-
-
-
-By third year:
-- Strong command of data structures and memory management in C  
-- Clear understanding of CPU, memory hierarchy, and low-level system behavior  
-- Writing efficient, well-structured code with measurable performance awareness  
-
-Depth in fundamentals > surface-level tool familiarity.
-
----
+# MOHAMM
 
 ## AI Usage Approach
 
