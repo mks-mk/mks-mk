@@ -2,14 +2,6 @@
 
 
 ---
-
-### Core Concepts
-- Genetic Algorithms  
-- Function optimization  
-- Basic time and space complexity analysis  
-
----
-
 ## Selected Projects
 
 ### Genetic Algorithm – Himmelblau Function Optimization
