@@ -3,16 +3,6 @@
 
 ---
 
-## Technical Skills
-
-### Languages
-- C (pointers, dynamic memory, file handling)  
-- Python (basic scripting and algorithm implementation)
-
-### Tools
-- Git & GitHub  
-- Linux CLI (basic usage)
-
 ### Core Concepts
 - Genetic Algorithms  
 - Function optimization  
