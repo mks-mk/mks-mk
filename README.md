@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi . . .  
-I am MK Sinan . . .
+I am MSMK . . .
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
