@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-Hi . . .  
-I am MSMK . . .
+👋 Hi there . . .
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
