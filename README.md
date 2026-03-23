@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-# <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> GitHub Stats:
+# <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="30"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mks-mk&theme=dark&background=0d1117&stroke=3fb950&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
