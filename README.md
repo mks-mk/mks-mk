@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MOHAMMEDSINANMK) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinanmkmhd@gmail.com) 
 
-# <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30"> Tech Stack:
+# <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30"> Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-# <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="30"> GitHub Stats:
+# <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mks-mk&theme=dark&background=0d1117&stroke=3fb950&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
