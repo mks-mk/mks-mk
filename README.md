@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrg4ia7z/giphy.gif" width="30"> About Me:
+# <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="30"> About Me:
 "👋Hi . . .<br>          there . . . . . ."
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCemTGBtBW/giphy.gif" width="30"> Connect Me:
