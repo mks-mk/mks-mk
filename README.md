@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrg4ia7z/giphy.gif" width="30"> About Me:
 "👋Hi . . .<br>          there . . . . . ."
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCemTGBtBW/giphy.gif" width="30"> Socials:
+## <img src="https://media.giphy.com/media/WUlplcMpOCemTGBtBW/giphy.gif" width="30"> Connect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MOHAMMEDSINANMK) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinanmkmhd@gmail.com) 
 
