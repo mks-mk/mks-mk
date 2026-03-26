@@ -18,6 +18,6 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 # <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mks-mk&theme=white&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mks-mk&theme=dark&background=0d1117&stroke=3fb950&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
