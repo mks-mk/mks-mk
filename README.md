@@ -8,9 +8,9 @@
 
 I am a **B.Tech CSE student** focused on building **high-performance systems** and mastering the core fundamentals of Computer Engineering. My goal is to bridge the gap between **academic theory** and **industry-grade engineering** through consistent, daily code execution.
 
-* **🔭 Currently working on:** Optimizing **backend workflows** and **low-level programming** in **C**.
-* **⚙️ Tech Focus:** **System-level performance**, **Linux environments (WSL)**, and **Version Control (Git)** mastery.
-* **⚡ Philosophy:** Using **AI as a productivity multiplier** to solve complex engineering bottlenecks and accelerate **technical execution**.
+- 🔭 Currently working on: Building **core programming skills** and **low-level concepts using C**
+- ⚙️ Tech Focus: **System-level performance**, **Linux environments (WSL)**, and **Version Control (Git)** mastery.
+- ⚡ Philosophy: Using **AI as a productivity multiplier** to solve complex engineering bottlenecks and accelerate **technical execution**.
 
 ---
 
