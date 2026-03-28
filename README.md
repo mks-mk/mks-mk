@@ -42,13 +42,15 @@ I am a **B.Tech CSE student** focused on building **high-performance systems** a
 
 # <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="30"> GitHub Stats:
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mks-mk&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950&icon_color=3fb950&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks-mk&layout=compact&theme=dark&bg_color=0d1117&text_color=3fb950&title_color=3fb950" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mks-mk&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&icon_color=3fb950&hide_border=true" height="150" alt="mks-mk stats" />
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mks-mk&layout=compact&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&hide_border=true&card_width=495" height="150" alt="mks-mk languages" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mks-mk&theme=dark&background=0d1117&stroke=3fb950" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=mks-mk&theme=tokyonight&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&hide_border=true" width="50%" alt="mks-mk streak" />
 </p>
 
 ---
@@ -56,3 +58,5 @@ I am a **B.Tech CSE student** focused on building **high-performance systems** a
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mks-mk&label=Profile%20Views&color=2ea44f&style=for-the-badge" />
 </p>
+
+
