@@ -4,9 +4,9 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> About Me:
 
-**Computer Science & Engineering Student | Technical Executionist**
+**Computer Science & Engineering Student**
 
-I am a **B.Tech CSE student** focused on building **strong foundation in programming** and mastering the core fundamentals of Computer Engineering. My goal is to bridge the gap between **academic theory** and **industry-grade engineering** through consistent, daily code execution.
+I am a **B.Tech CSE student** focused on building **strong foundation in programming** and mastering the core fundamentals of Computer Engineering. My goal is to bridge the gap between **academic theory** and **practical implementation** through consistent code execution.
 
 - 👨‍💻 Currently working on: Building **core programming skills** and **low-level concepts using C**
 - ⚙️ Tech Focus: **System-level performance**, **Linux environments (WSL)**, and **Version Control (Git)** mastery.
