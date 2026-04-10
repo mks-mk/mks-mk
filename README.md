@@ -44,7 +44,7 @@ I am a **B.Tech CSE student** focused on building **strong foundation in program
 
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mks-mk&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&icon_color=3fb950&hide_border=true" height="150" alt="mks-mk stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mks-mk&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&icon_color=3fb950&hide_border=true" height="150" alt="mks-mk stats" /> <!-- mks-mk -->
   
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mks-mk&layout=compact&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&hide_border=true&card_width=495" height="150" alt="mks-mk languages" />
 </p>
@@ -58,4 +58,6 @@ I am a **B.Tech CSE student** focused on building **strong foundation in program
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mks-mk&label=Profile%20Views&color=2ea44f&style=for-the-badge" />
 </p>
+
+
 
