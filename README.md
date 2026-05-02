@@ -17,7 +17,7 @@ I am a **B.Tech CSE student** focused on building **strong foundation in program
 ## <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="30"> Let's Catch:
 
 <p align="center">
-  <a href="https://linkedin.com/in/MohammedSinanMk" target="_blank">
+  <a href="https://linkedin.com/in/mhdsinanmk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sinanmkmhd@gmail.com">
