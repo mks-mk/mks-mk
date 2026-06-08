@@ -10,7 +10,6 @@ I am a passionate **B.Tech CSE student** dedicated to mastering the core fundame
 
 ---
 
-
 # Tech Stack & Tooling
 
 ###  Languages & Core Concepts
@@ -57,6 +56,16 @@ I am a passionate **B.Tech CSE student** dedicated to mastering the core fundame
   </tr>
 </table>
 
+###  Databases & Storage
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
+
 ###  System, Environments & DevOps
 <table>
   <tr>
@@ -74,8 +83,6 @@ I am a passionate **B.Tech CSE student** dedicated to mastering the core fundame
     </td>
   </tr>
 </table>
-
----
 
 ##  GitHub Performance Metric
 
