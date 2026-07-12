@@ -117,7 +117,6 @@ Currently focused on:
 1. Deepening expertise in systems programming through collaborative open-source development
 2. Contributing to production-grade C projects with measurable technical impact
 3. Mentorship and knowledge transfer in low-level programming concepts
-4. LFX Program participation to advance systems engineering skills under expert guidance
 
 ---
 
