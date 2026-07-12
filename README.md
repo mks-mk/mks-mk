@@ -1,112 +1,142 @@
-# Hi there, I'm Mk Sinan! 👋
+# Sinan Mk
 
-### Computer Science & Engineering Student 
+**Systems Engineer | C Programming | CLI Tools Development**
 
-I am a passionate **B.Tech CSE student** dedicated to mastering the core fundamentals of Computer Engineering and building a robust programming foundation. I bridge the gap between academic computer science theory and high-performance, practical software implementation.
-
-- 👨‍💻 **Currently Focus:** Deepening my understanding of system-level concepts and core data structures using **C**.
-- ⚙️ **Environment:** Building and debugging inside native **Linux environments (WSL)**.
-- ⚡ **Workflow:** Mastering **Git & Version Control** to optimize code integration and technical execution.
+I build efficient, memory-safe systems software and contribute to production codebases. Focused on understanding system internals, writing modular C code, and solving real-world problems with clean architectures.
 
 ---
 
-# Tech Stack & Tooling
+## Professional Summary
 
-###  Languages & Core Concepts
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br /><sub><b>C</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br /><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br /><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br /><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br /><sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-</table>
+Systems-focused software engineer with demonstrated expertise in low-level C programming, CLI tool development, and production-grade systems design. Proven track record of implementing high-performance parsers and contributing to open-source projects with measurable impact. Actively seeking mentorship through LFX programs to deepen systems programming expertise.
 
-###  Data Science & Ecosystems
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy" />
-      <br /><sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib" />
-      <br /><sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br /><sub><b>Anaconda</b></sub>
-    </td>
-  </tr>
-</table>
+---
 
-###  Databases & Storage
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br /><sub><b>MySQL</b></sub>
-    </td>
-  </tr>
-</table>
+## Technical Competencies
 
-###  System, Environments & DevOps
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br /><sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br /><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br /><sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
+### Languages & Core Systems
+- **C** (Production-Grade): Dynamic memory management, buffer optimization, modular architecture
+- **Python**: Data processing, algorithmic implementations
+- **JavaScript**: Web integration, CLI tooling
 
-##  GitHub Performance Metric
+### Systems Programming Focus
+- Memory Management: Heap/stack optimization, dynamic allocation strategies, buffer safety
+- CLI Design: Parser architecture, argument handling, structured data processing
+- Low-Level Concepts: GCC compilation, Linux system calls, performance optimization
+- Data Processing: JSON serialization, unstructured data parsing, schema validation
+
+### Development Environment
+- Linux/WSL development environments
+- GCC compilation and optimization
+- Git workflows and collaborative development
+- CI/CD integration and testing
+
+---
+
+## Key Projects & Contributions
+
+### 1. High-Performance Academic Data Parser (C)
+
+**Repository:** [MidhlajAm/studyco_app/pull/3](https://github.com/MidhlajAm/studyco_app/pull/3)
+
+**Project Scope:**
+Modular CLI utility designed to convert unstructured academic text (syllabi, question banks, learning materials) into production-ready JSON payloads.
+
+**Technical Implementation:**
+
+| Component | Technical Details |
+|-----------|------------------|
+| Syllabus Parser | Dynamic memory routing via `calloc()` for safe processing of large paragraphs; prevents stack overflow through careful buffer management |
+| Question Parser | Custom `is_sub_question()` context logic to differentiate main questions from nested sub-questions with accuracy |
+| Notes Structuring | Converts pipe-delimited strings (`Title \| Author \| Link`) into clean JSON object arrays |
+| Memory Management | Optimized buffer scaling via `realloc()` with careful validation; tested under GCC/Linux |
+| Documentation | Comprehensive README with format specifications, build instructions, and JSON schemas |
+
+**Metrics:**
+- 6 commits with clear commit history
+- 560+ lines of production code
+- 7 files modified/created
+- Successfully compiled and tested on GCC/Linux (WSL)
+- Zero memory leaks (verified through testing)
+
+**Contribution Quality:** Modular design with separation of concerns, comprehensive documentation for maintainability, and production-ready error handling.
+
+---
+
+### 2. CLI Inventory Management System (C)
+
+**Repository:** [mks-mk/Inventory-management-system-C](https://github.com/mks-mk/Inventory-management-system-C)
+
+**Focus Areas:**
+- Persistent file I/O and low-level data handling
+- Structured in-memory data management
+- Refactored legacy code for modern compiler compatibility (GCC/Linux)
+- Command-line interface design for user interaction
+
+---
+
+## Open Source Engagement
+
+**GirlScript Summer of Code 2026 (GSOC)**
+- Active contributor to established production codebases
+- Successfully merged pull requests across multiple repositories
+- Experience with professional code review cycles and maintainer collaboration
+
+**Recent Contributions:**
+- React component implementation: Scroll-to-Top functionality (merged)
+- Frontend integration: Favicon configuration with Next.js metadata (merged)
+- Documentation improvements: README clarity and project specifications (merged)
+
+**Development Philosophy:** Production-ready code, comprehensive testing, clear commit messages, and maintainer-responsive approach.
+
+---
+
+## Technical Stack
+
+| Category | Tools/Technologies |
+|----------|-------------------|
+| Languages | C, Python, JavaScript |
+| Systems | Linux, WSL, GCC |
+| Tools | Git, GitHub, VS Code, Bash |
+| Specialization | Memory management, parser design, modular C architecture, Linux CLI |
+
+---
+
+## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mks-mk&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&icon_color=3fb950&hide_border=true" height="150" alt="mks-mk stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mks-mk&layout=compact&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=3fb950&hide_border=true&card_width=495" height="150" alt="mks-mk languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mks-mk&theme=tokyonight&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&hide_border=true" width="60%" alt="mks-mk streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mks-mk&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&hide_border=true&count_private=true" height="150" alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com?user=mks-mk&theme=tokyonight&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&hide_border=true" width="60%" alt="Contribution Streak" />
 </p>
 
 ---
 
+## Professional Objectives
 
-##  Connect With Me
+Currently focused on:
+1. Deepening expertise in systems programming through collaborative open-source development
+2. Contributing to production-grade C projects with measurable technical impact
+3. Mentorship and knowledge transfer in low-level programming concepts
+4. LFX Program participation to advance systems engineering skills under expert guidance
 
-Let's collaborate! Feel free to reach out via LinkedIn or email.
+---
+
+## Contact
+
 <p align="left">
   <a href="https://linkedin.com/in/mhdsinanmk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:sinanmkmhd@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mks-mk">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
 </p>
+
+**Email:** sinanmkmhd@gmail.com  
+**GitHub:** github.com/mks-mk  
+**LinkedIn:** linkedin.com/in/mhdsinanmk
