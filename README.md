@@ -42,7 +42,7 @@ A modular command-line utility designed to parse unstructured academic text (syl
 | **Question Parser** | Implemented custom `is_sub_question()` context logic to differentiate main questions from nested sub-questions. |
 | **Notes Structuring** | Converts pipe-delimited strings (`Title \| Author \| Link`) into clean, formatted JSON object arrays. |
 | **Memory Management** | Dynamic buffer scaling using `realloc()` with standard pointer validation; tested under GCC/Linux environments. |
-| **Documentation** | Structured README including format specifications, build instructions, and JSON schemas. |
+| **Documentation** | Structured README including format specifications, build instructions, and JSON schemas. | 
 
 **Metrics:**
 - 560+ lines of clean C code across 7 files
@@ -99,7 +99,11 @@ A modular command-line utility designed to parse unstructured academic text (syl
 ---
 
 ## Professional Objectives
-
+<!-- avoid this command :)
+ COPYRIGHT NOTICE: 
+This README layout and content structure are handcrafted by Mohammed Sinan Mk.
+If you are blindly copying this, please know that plagiarism is easily trackable. 
+-->
 Currently focused on:
 1. Deepening logic and understanding of systems-level concepts through collaborative open-source development.
 2. Contributing to open-source C and Python repositories with clean, modular, and maintainable code.
