@@ -1,104 +1,91 @@
-# Sinan Mk
+# Mohammed Sinan Mk
 
-**Systems Engineer | C Programming | CLI Tools Development**
+**Exploring Systems Programming | C Programming | CLI Tools Development**
 
-I build efficient, memory-safe systems software and contribute to production codebases. Focused on understanding system internals, writing modular C code, and solving real-world problems with clean architectures.
+I build efficient and structured systems software tools and contribute to real-world open-source projects. Focused on understanding system internals, writing modular C code, and building functional software tools.
 
 ---
 
 ## Professional Summary
 
-Systems-focused software engineer with demonstrated expertise in low-level C programming, CLI tool development, and production-grade systems design. Proven track record of implementing high-performance parsers and contributing to open-source projects with measurable impact. Actively seeking mentorship through LFX programs to deepen systems programming expertise.
+Computer Science & Engineering undergraduate focused on core software logic, C programming, and command-line utility development. Experienced in handling file management, refactoring legacy code blocks under modern GCC environments, and developing structured, functional applications. Actively engaged in collaborative open-source workflows to build readable and maintainable software.
 
 ---
 
 ## Technical Competencies
 
-### Languages & Core Systems
-- **C** (Production-Grade): Dynamic memory management, buffer optimization, modular architecture
-- **Python**: Data processing, algorithmic implementations
-- **JavaScript**: Web integration, CLI tooling
+### Languages
+- **C**: Dynamic memory allocation, structured pointer handling, and file I/O operations.
+- **Python**: Core scripting, data processing, and algorithmic problem-solving.
 
-### Systems Programming Focus
-- Memory Management: Heap/stack optimization, dynamic allocation strategies, buffer safety
-- CLI Design: Parser architecture, argument handling, structured data processing
-- Low-Level Concepts: GCC compilation, Linux system calls, performance optimization
-- Data Processing: JSON serialization, unstructured data parsing, schema validation
-
-### Development Environment
-- Linux/WSL development environments
-- GCC compilation and optimization
-- Git workflows and collaborative development
-- CI/CD integration and testing
+### Practical Technical Focus
+- **Memory Management**: Utilizing dynamic allocation (`malloc`/`free`) efficiently and managing data structures.
+- **CLI Design**: Handling command-line arguments, building menu-driven utilities, and managing persistent file storage.
+- **Development & Tooling**: Compiling with GCC, managing repositories with Git/GitHub, and developing inside a WSL Linux environment.
 
 ---
 
 ## Key Projects & Contributions
 
-### 1. High-Performance Academic Data Parser (C)
+### 1. Academic Data Parser (C)
 
-**Repository:** [MidhlajAm/studyco_app/pull/3](https://github.com/MidhlajAm/studyco_app/pull/3)
+**Repository / PR:** [MidhlajAm/studyco_app/pull/4](https://github.com/MidhlajAm/studyco_app/pull/4)
 
 **Project Scope:**
-Modular CLI utility designed to convert unstructured academic text (syllabi, question banks, learning materials) into production-ready JSON payloads.
+A modular command-line utility designed to parse unstructured academic text (syllabi, question banks, and learning materials) into structured JSON arrays.
 
 **Technical Implementation:**
 
 | Component | Technical Details |
 |-----------|------------------|
-| Syllabus Parser | Dynamic memory routing via `calloc()` for safe processing of large paragraphs; prevents stack overflow through careful buffer management |
-| Question Parser | Custom `is_sub_question()` context logic to differentiate main questions from nested sub-questions with accuracy |
-| Notes Structuring | Converts pipe-delimited strings (`Title \| Author \| Link`) into clean JSON object arrays |
-| Memory Management | Optimized buffer scaling via `realloc()` with careful validation; tested under GCC/Linux |
-| Documentation | Comprehensive README with format specifications, build instructions, and JSON schemas |
+| **Syllabus Parser** | Dynamic memory allocation via `calloc()` for processing paragraphs and managing buffer sizes safely. |
+| **Question Parser** | Implemented custom `is_sub_question()` context logic to differentiate main questions from nested sub-questions. |
+| **Notes Structuring** | Converts pipe-delimited strings (`Title \| Author \| Link`) into clean, formatted JSON object arrays. |
+| **Memory Management** | Dynamic buffer scaling using `realloc()` with standard pointer validation; tested under GCC/Linux environments. |
+| **Documentation** | Structured README including format specifications, build instructions, and JSON schemas. |
 
 **Metrics:**
-- 6 commits with clear commit history
-- 560+ lines of production code
-- 7 files modified/created
-- Successfully compiled and tested on GCC/Linux (WSL)
-- Zero memory leaks (verified through testing)
+- 560+ lines of clean C code across 7 files
+- 6 commits with structured commit history
+- Compiled, executed, and tested on GCC/Linux (WSL)
+- Monitored for proper memory allocation and deallocation
 
-**Contribution Quality:** Modular design with separation of concerns, comprehensive documentation for maintainability, and production-ready error handling.
+**Contribution Quality:** Focuses on clean separation of concerns, modular design for easy maintainability, and foundational error checking.
 
 ---
-
 ### 2. CLI Inventory Management System (C)
 
 **Repository:** [mks-mk/Inventory-management-system-C](https://github.com/mks-mk/Inventory-management-system-C)
 
 **Focus Areas:**
-- Persistent file I/O and low-level data handling
-- Structured in-memory data management
-- Refactored legacy code for modern compiler compatibility (GCC/Linux)
-- Command-line interface design for user interaction
+- Persistent file handling and structured data management.
+- Refactored legacy code to compile smoothly under modern GCC/Linux environments.
+- Designed a structured, interactive command-line interface for user interaction.
 
 ---
 
 ## Open Source Engagement
 
-**GirlScript Summer of Code 2026 (GSOC)**
-- Active contributor to established production codebases
-- Successfully merged pull requests across multiple repositories
-- Experience with professional code review cycles and maintainer collaboration
+**GirlScript Summer of Code 2026 (GSSoC)**
+- Contributor focused on open-source repositories and community-driven projects.
+- Actively engaged in standard code reviews and collaboration with project maintainers.
 
-**Recent Contributions:**
-- React component implementation: Scroll-to-Top functionality (merged)
-- Frontend integration: Favicon configuration with Next.js metadata (merged)
-- Documentation improvements: README clarity and project specifications (merged)
+**Selected Contributions:**
+- **Frontend:** Implemented a clean Scroll-to-Top React component.
+- **Frontend:** Configured favicon setup using Next.js metadata.
+- **Documentation:** Enhanced repository READMEs for clarity and project specifications.
 
-**Development Philosophy:** Production-ready code, comprehensive testing, clear commit messages, and maintainer-responsive approach.
-
----
-
+**Development Philosophy:** Writing readable and well-structured code, ensuring functional correctness, maintaining a clear commit history, and collaborating responsively with maintainers.
 ## Technical Stack
 
 | Category | Tools/Technologies |
 |----------|-------------------|
-| Languages | C, Python, JavaScript |
-| Systems | Linux, WSL, GCC |
-| Tools | Git, GitHub, VS Code, Bash |
-| Specialization | Memory management, parser design, modular C architecture, Linux CLI |
+| **Languages** | C, Python |
+| **Databases** | MySQL |
+| **Libraries** | NumPy, Matplotlib |
+| **Systems** | Linux, WSL, GCC |
+| **Tools** | Git, GitHub, VS Code, Bash |
+| **Technical Focus** | Dynamic memory allocation, CLI text parsing, modular C programming, Data processing & visualization |
 
 ---
 
@@ -114,28 +101,20 @@ Modular CLI utility designed to convert unstructured academic text (syllabi, que
 ## Professional Objectives
 
 Currently focused on:
-1. Deepening expertise in systems programming through collaborative open-source development
-2. Contributing to production-grade C projects with measurable technical impact
-3. Mentorship and knowledge transfer in low-level programming concepts
-
+1. Deepening logic and understanding of systems-level concepts through collaborative open-source development.
+2. Contributing to open-source C and Python repositories with clean, modular, and maintainable code.
+3. Sharing learning progress and collaborating with the developer community through well-documented practice repositories.
 ---
 
 ## Contact
-
-<p align="left">
+<p align="right">
   <a href="https://linkedin.com/in/mhdsinanmk" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:sinanmkmhd@gmail.com">
+<a href="mailto:sinanmkmhd@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://github.com/mks-mk">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-  </a>
-</p>
-
-**Email:** sinanmkmhd@gmail.com  
-**GitHub:** github.com/mks-mk  
+  
+**Email:** sinanmkmhd@gmail.com   
 **LinkedIn:** linkedin.com/in/mhdsinanmk
