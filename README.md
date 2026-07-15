@@ -116,9 +116,5 @@ Currently focused on:
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-<a href="mailto: mksintern9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
-  </a>
-  
-**Email:** mksintern9@gmail.com   
+   
 **LinkedIn:** linkedin.com/in/mhdsinanmk
